@@ -1,0 +1,19 @@
+#sideNav{
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 250px;
+	height: 100%;
+	color: white;
+	background-color: #008080;
+}
+
+#sideNavContents .navbar-collapse{
+	width: 100%;
+	margin-bottom: auto;
+}
+
+#sideNavList { 
+	list-style-type: none; 
+} 
